@@ -1,5 +1,5 @@
 function Footer() {
-    const currentDay ="6/14/2024";
+    const currentDay ="14/6/2024";
 
     return ( 
         <footer className="bg-light text-center py-3 ">
