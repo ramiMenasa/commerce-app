@@ -1,5 +1,5 @@
 function Footer() {
-    const currentDay = new Date().toLocaleDateString();
+    const currentDay ="6/14/2024";
 
     return ( 
         <footer className="bg-light text-center py-3 ">
