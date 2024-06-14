@@ -8,21 +8,21 @@ This project aims to evaluate skills in React.js, state management, API integrat
   - Fetch and display a list of products from the Fake Store API.
   - Each product displays an image, title, price, and a button to add the product to the cart.
   - Filter products by category.
-  - Sort products by salart
+  - Sort products by price
 - **Product Detail Page**
-  - Display detailed view showing the product's image, title, description, price, and category.
+  - Display a detailed view of the product's image, title, description, price, and category.
   - Option to add the product to the cart from this page.
 - **Header**
   - Navigation links to the product listing and shopping cart pages.
   - Display the total number of items in the cart.
 - **Footer**
-  - Display the company name and the current day of submission.
+  - Display the company name and the submission date.
 
 
 ## Requirements
 - Use React.js for building the application.
 - Use functional components and React hooks (e.g., useState, useEffect).
-- Use a state management library like Context API for managing the cart state.
+- Use a state management library like Context API to manage the cart state.
 - Integrate with the Fake Store API to fetch product data.
 - Use Bootstrap for styling.
 - Write clean, maintainable, and well-documented code.
@@ -30,14 +30,13 @@ This project aims to evaluate skills in React.js, state management, API integrat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ramiMenasa/e-commerce-app.git
+   git clone https://github.com/ramiMenasa/commerce-app.git
 2. Install dependencies:
     ```bash
     cd e-commerce-app
     npm install
-3. tart the application:
+3. Start the application:
     ```bash
-    Copy code
     npm start
 
 ## Live
