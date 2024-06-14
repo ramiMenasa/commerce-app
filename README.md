@@ -17,6 +17,9 @@ This project aims to evaluate skills in React.js, state management, API integrat
   - Display the total number of items in the cart.
 - **Footer**
   - Display the company name and the submission date.
+- **Not Found Page**
+  - Display 404 page not found.
+
 
 
 ## Requirements
