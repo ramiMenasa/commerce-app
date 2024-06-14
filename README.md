@@ -40,3 +40,4 @@ This project aims to evaluate skills in React.js, state management, API integrat
     npm start
 
 ## Live
+momentum-ecommerce.netlify.app
